@@ -1,4 +1,4 @@
-# Teste Prático Rhitmo
+# Teste Prático Estacionamento
 
 O código tem como finalidade de construir um sistema de estacionamento para carros, motos e vans.
 
